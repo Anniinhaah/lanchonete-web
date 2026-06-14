@@ -18,3 +18,4 @@ const cardapio = [
 
 console.log("Cardápio carregado:");
 console.log(cardapio);
+console.log("Sistema do cardápio iniciado");
