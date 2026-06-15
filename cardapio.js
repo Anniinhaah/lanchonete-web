@@ -16,7 +16,7 @@ const cardapio = [
     },
     {
     nome: "Batata Frita",
-    preco: 12.00,
+    preco: 14.00,
     categoria: "Acompanhamento"
     }
 ];
