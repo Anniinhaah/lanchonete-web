@@ -13,6 +13,11 @@ const cardapio = [
         nome: "Combo Família",
         preco: 45.90,
         categoria: "Combo"
+    },
+    {
+    nome: "Batata Frita",
+    preco: 12.00,
+    categoria: "Acompanhamento"
     }
 ];
 
